@@ -1,3 +1,5 @@
+#made by Leonardo Adler da Silva
+#https://github.com/LeoAdlerr
 def descriptografar (pontos: str) -> str:
     for msg_criptografada in linhas[1:]:
         if pontos == ".":
